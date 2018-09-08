@@ -1,2 +1,2 @@
 # LIBOR
-statistics related
+Libor market model
